@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am working on git hub. I am very excited to working on git.......
+=======
+i am working on git hub. I am very excited to working on git.
+>>>>>>> main
